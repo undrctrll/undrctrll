@@ -22,6 +22,9 @@
 - 🎓 **SMK Telkom Purwokerto**  
   Rekayasa Perangkat Lunak (Software Engineering)
 
+- 🎓 **Politeknik Negeri Cilcap**  
+  Teknologi Rekayasa Perangkat Lunak (Software Engineering)
+
 ---
 
 ### 🛠️ Tech Stack
